@@ -44,7 +44,7 @@
 <hr>
 <center>
   <a href="https://github.com/Kinkando"><img src="https://i.imgur.com/blGV46l.png" alt='github' height='40'></a>
-  <a href="https://www.linkedin.com/in/tanawat-yuwansiri/"><img src="https://i.imgur.com/a5jDgN0.png" alt='linkedin' height='40'></a>
+  <a href="https://www.linkedin.com/in/tanawat-yuwansiri-500687228/"><img src="https://i.imgur.com/a5jDgN0.png" alt='linkedin' height='40'></a>
 </center>
 
 ![Profile views](https://gpvc.arturio.dev/Kinkando)  
