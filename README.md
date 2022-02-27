@@ -49,19 +49,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/Kinkando)  
 
-<ul>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height='20'/> Java</li>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height='20'/> Dart</li>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height='20'/> C</li>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height='20'/> HTML</li>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height='20'/> CSS</li>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height='20'/> JavaScript</li>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height='20'/> PHP</li>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height='20'/> MySQL</li>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height='20'/> GoLang</li>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height='20'/> Python</li>
-</ul>
-
 
 <!--
 **Kinkando/Kinkando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
