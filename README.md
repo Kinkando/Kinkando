@@ -1,5 +1,5 @@
 ### Hi there, My name is Tanawat Yuwansiri 👋
-Language
+Skills
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height='20'/> Java</li>
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height='20'/> Dart</li>
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height='20'/> C</li>
@@ -12,7 +12,7 @@ Language
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height='20'/> MySQL</li>
 <br>
 
-Framework & tools
+Frameworks & tools
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height='20'/> Flutter</li>
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height='20'/> Laravel8</li>
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height='20'/> AngularJS</li>
