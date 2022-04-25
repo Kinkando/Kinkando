@@ -11,6 +11,7 @@ Skills
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height='20'/> TypeScript</li>
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height='20'/> PHP</li>
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height='20'/> MySQL</li>
+<li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height='20'/> MongoDB</li>
 <br>
 
 Frameworks & tools
