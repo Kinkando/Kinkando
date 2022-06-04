@@ -12,6 +12,7 @@ Skills
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height='20'/> PHP</li>
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height='20'/> MySQL</li>
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height='20'/> MongoDB</li>
+<li><img src="https://cdn.iconscout.com/icon/free/png-256/elasticsearch-226094.png" height='20'/> Elasticsearch</li>
 <br>
 
 Frameworks & tools
@@ -19,6 +20,7 @@ Frameworks & tools
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height='20'/> Laravel</li>
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height='20'/> AngularJS</li>
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height='20'/> VueJS</li>
+<li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height='20'/> ReactJS</li>
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height='20'/> Node.js</li>
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height='20'/> Bootstrap</li>
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height='20'/> JQuery</li>
