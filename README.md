@@ -27,6 +27,7 @@ Frameworks & tools
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height='20'/> Heroku</li>
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height='20'/> Visual Studio Code</li>
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height='20'/> Docker</li>
+<li><img src="https://cdn.iconscout.com/icon/free/png-256/rabbitmq-282296.png" height='20'/> RabbitMQ
 <li><img src="https://pubhub.devnetcloud.com/media/finesse/site/images/rest-icon.png" height='20'/> REST API</li>
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height='20'/> Linux</li>
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  height='20'/> Git</li>
