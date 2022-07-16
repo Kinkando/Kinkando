@@ -7,7 +7,6 @@ Skills
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height='20'/> Python</li>
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height='20'/> HTML</li>
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height='20'/> CSS</li>
-<li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" height='20'/> SCSS</li>
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height='20'/> JavaScript</li>
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height='20'/> TypeScript</li>
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height='20'/> PHP</li>
